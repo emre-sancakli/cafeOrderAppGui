@@ -21,7 +21,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 
-//@author emresancakli4
+
 
 public class A1 extends JFrame implements ActionListener{
 
